@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.exe
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.deps.json
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.runtimeconfig.json
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.dll
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Dependency Injection.pdb
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.AssemblyInfo.cs
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependen.046D97CA.Up2Date
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.dll
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\refint\Dependency Injection.dll
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.pdb
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\Dependency Injection.genruntimeconfig.cache
+C:\Users\asus\Desktop\Dependency Injection\Dependency Injection\obj\Debug\net8.0\ref\Dependency Injection.dll
